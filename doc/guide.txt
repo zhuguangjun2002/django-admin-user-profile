@@ -1,0 +1,26 @@
+========================
+Django Admin User Profile
+
+Example used in the blog post :
+例子是博客：
+《How to Add User Profile To Django Admin》
+
+文章在：
+--------------------------
+https://simpleisbetterthancomplex.com/tutorial/2016/11/23/how-to-add-user-profile-to-django-admin.html
+--------------------------
+
+
+《How to Extend Django User Model》
+文章是基础，上面的文章，是基于该文章的`第2方案`，基础之上，完善的。
+--------------------------
+https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
+--------------------------
+
+代码：github code:
+
+--------------------------
+https://github.com/sibtc/django-admin-user-profile
+--------------------------
+
+========================
